@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Azmat Sakhawat</h1>
+<h1 align="center">Hi 👋, I'm Azmat Sakhawat (aka Tony Mark)</h1>
 <h3 align="center">A passionate mern stack - blockchain - and ai developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmat-masih&label=Profile%20views&color=0e75b6&style=flat" alt="azmat-masih" /> </p>
 
 - 🔭 I’m currently working on my startup **atlas.ai**
+- Atlas.AI - Your Intelligent Companion Glasses
+💡 AI Assistant with contextual intelligence
+
+🔒 Ghost Mode: Camera jammer + hidden lens detection
+
+👓 Fashion meets function with augmented design
+
+🌍 Privacy-first | Edge-computing powered | Made for modern explorers
+
 
 - 📫 How to reach me **azmat.sakhawat@gmail.com**
 
