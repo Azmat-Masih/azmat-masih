@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmat-masih&label=Profile%20views&color=0e75b6&style=flat" alt="azmat-masih" /> </p>
 
-- 🔭 I’m currently working on my startup **atlas.ai**
-- Atlas.AI - Your Intelligent Companion Glasses
+🔭 What I'm Building (my startup - my dream - my mission - my vision)
+
+🦾 atlas.ai - Your Intelligent Companion Glasses
 💡 AI Assistant with contextual intelligence
-
 🔒 Ghost Mode: Camera jammer + hidden lens detection
-
 👓 Fashion meets function with augmented design
-
 🌍 Privacy-first | Edge-computing powered | Made for modern explorers
+
+🤖 Autonomous AI Agents (In Progress)
+
+- Personalized decision-making bots
+- Blockchain-integrated identity and audit trails
+- Use-cases: DeFi task automation, data guardians, and more
 
 
 - 📫 How to reach me **azmat.sakhawat@gmail.com**
