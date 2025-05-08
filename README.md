@@ -5,6 +5,8 @@
 
 🔭 What I'm Building (my startup - my dream - my mission - my vision)
 
+
+
 🦾 atlas.ai - Your Intelligent Companion Glasses
 
 💡 AI Assistant with contextual intelligence
@@ -15,7 +17,10 @@
 
 🌍 Privacy-first | Edge-computing powered | Made for modern explorers
 
+
+
 🤖 Autonomous AI Agents (In Progress)
+
 
 - Personalized decision-making bots
 - Blockchain-integrated identity and audit trails
