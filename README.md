@@ -7,6 +7,8 @@
 
 
 
+
+
 🦾 atlas.ai - Your Intelligent Companion Glasses
 
 💡 AI Assistant with contextual intelligence
@@ -19,7 +21,10 @@
 
 
 
+
 🤖 Autonomous AI Agents (In Progress)
+
+
 
 
 - Personalized decision-making bots
