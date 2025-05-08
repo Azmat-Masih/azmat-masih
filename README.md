@@ -9,22 +9,12 @@
 
 
 
-🦾 atlas.ai - Your Intelligent Companion Glasses
-
-💡 AI Assistant with contextual intelligence
-
-🔒 Ghost Mode: Camera jammer + hidden lens detection
-
-👓 Fashion meets function with augmented design
-
-🌍 Privacy-first | Edge-computing powered | Made for modern explorers
+🦾 atlas.ai - Your Intelligent Companion Glasses  💡 AI Assistant with contextual intelligence   🔒 Ghost Mode: Camera jammer + hidden lens detection  👓 Fashion meets function with augmented design  🌍 Privacy-first | Edge-computing powered | Made for modern explorers
 
 
 
 
 🤖 Autonomous AI Agents (In Progress)
-
-
 
 
 - Personalized decision-making bots
